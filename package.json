@@ -1,0 +1,24 @@
+{
+  "name": "node-bluebird-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eMahtab/node-bluebird-promises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eMahtab/node-bluebird-promises/issues"
+  },
+  "homepage": "https://github.com/eMahtab/node-bluebird-promises#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "express": "^4.15.3"
+  }
+}
